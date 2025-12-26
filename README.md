@@ -298,7 +298,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-Developed by N YASWANTH as  part of an educational management system project.
+Developed by RISHI VEDI as  part of an educational management system project.
 
 ## 🙏 Acknowledgments
 
